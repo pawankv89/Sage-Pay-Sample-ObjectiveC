@@ -5,6 +5,10 @@ SagePaySampleObjectiveC
 ## SagePaySampleObjectiveC.
 ------------
  Added Some screens here.
+ 
+ Visualization of SagePay Failed Page http://pawankv89.github.io/SagePayFailed/index.html
+ Visualization of SagePay Success Page http://pawankv89.github.io/SagePaySuccess/index.html
+ 
 
 [![](https://github.com/pawankv89/SagePaySampleObjectiveC/blob/master/Screens/1.png)]
 [![](https://github.com/pawankv89/SagePaySampleObjectiveC/blob/master/Screens/2.png)]
