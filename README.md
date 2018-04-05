@@ -6,16 +6,16 @@ SagePaySampleObjectiveC
 ------------
  Added Some screens here.
 
-[![](https://github.com/pawankv89/SagePaySampleObjectiveC/blob/master/images/screen_1.PNG)]
-[![](https://github.com/pawankv89/SagePaySampleObjectiveC/blob/master/images/screen_2.PNG)]
-[![](https://github.com/pawankv89/SagePaySampleObjectiveC/blob/master/images/screen_3.PNG)]
-[![](https://github.com/pawankv89/SagePaySampleObjectiveC/blob/master/images/screen_4.PNG)]
-[![](https://github.com/pawankv89/SagePaySampleObjectiveC/blob/master/images/screen_5.PNG)]
-[![](https://github.com/pawankv89/SagePaySampleObjectiveC/blob/master/images/screen_6.PNG)]
-[![](https://github.com/pawankv89/SagePaySampleObjectiveC/blob/master/images/screen_7.PNG)]
-[![](https://github.com/pawankv89/SagePaySampleObjectiveC/blob/master/images/screen_8.PNG)]
-[![](https://github.com/pawankv89/SagePaySampleObjectiveC/blob/master/images/screen_9.PNG)]
-[![](https://github.com/pawankv89/SagePaySampleObjectiveC/blob/master/images/screen_10.PNG)]
+[![](https://github.com/pawankv89/SagePaySampleObjectiveC/blob/master/Screens/1.png)]
+[![](https://github.com/pawankv89/SagePaySampleObjectiveC/blob/master/Screens/2.png)]
+[![](https://github.com/pawankv89/SagePaySampleObjectiveC/blob/master/Screens/3.png)]
+[![](https://github.com/pawankv89/SagePaySampleObjectiveC/blob/master/Screens/4.png)]
+[![](https://github.com/pawankv89/SagePaySampleObjectiveC/blob/master/Screens/5.png)]
+[![](https://github.com/pawankv89/SagePaySampleObjectiveC/blob/master/Screens/6.png)]
+[![](https://github.com/pawankv89/SagePaySampleObjectiveC/blob/master/Screens/7.png)]
+[![](https://github.com/pawankv89/SagePaySampleObjectiveC/blob/master/Screens/8.png)]
+[![](https://github.com/pawankv89/SagePaySampleObjectiveC/blob/master/Screens/9.png)]
+[![](https://github.com/pawankv89/SagePaySampleObjectiveC/blob/master/Screens/10.png)]
 
 
 ## Usage
