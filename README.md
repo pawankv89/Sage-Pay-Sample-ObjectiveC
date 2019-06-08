@@ -1,8 +1,8 @@
 
-SagePaySampleObjectiveC
+Sage Pay Sample ObjectiveC
 =========
 
-## SagePaySampleObjectiveC.
+## Sage Pay Sample ObjectiveC.
 ------------
  Added Some screens here.
  
@@ -10,16 +10,16 @@ SagePaySampleObjectiveC
  Visualization of SagePay Success Page http://pawankv89.github.io/SagePaySuccess/index.html
  
 
-[![](https://github.com/pawankv89/SagePaySampleObjectiveC/blob/master/Screens/1.png)]
-[![](https://github.com/pawankv89/SagePaySampleObjectiveC/blob/master/Screens/2.png)]
-[![](https://github.com/pawankv89/SagePaySampleObjectiveC/blob/master/Screens/3.png)]
-[![](https://github.com/pawankv89/SagePaySampleObjectiveC/blob/master/Screens/4.png)]
-[![](https://github.com/pawankv89/SagePaySampleObjectiveC/blob/master/Screens/5.png)]
-[![](https://github.com/pawankv89/SagePaySampleObjectiveC/blob/master/Screens/6.png)]
-[![](https://github.com/pawankv89/SagePaySampleObjectiveC/blob/master/Screens/7.png)]
-[![](https://github.com/pawankv89/SagePaySampleObjectiveC/blob/master/Screens/8.png)]
-[![](https://github.com/pawankv89/SagePaySampleObjectiveC/blob/master/Screens/9.png)]
-[![](https://github.com/pawankv89/SagePaySampleObjectiveC/blob/master/Screens/10.png)]
+![](https://github.com/pawankv89/SagePaySampleObjectiveC/blob/master/Screens/1.png)
+![](https://github.com/pawankv89/SagePaySampleObjectiveC/blob/master/Screens/2.png)
+![](https://github.com/pawankv89/SagePaySampleObjectiveC/blob/master/Screens/3.png)
+![](https://github.com/pawankv89/SagePaySampleObjectiveC/blob/master/Screens/4.png)
+![](https://github.com/pawankv89/SagePaySampleObjectiveC/blob/master/Screens/5.png)
+![](https://github.com/pawankv89/SagePaySampleObjectiveC/blob/master/Screens/6.png)
+![](https://github.com/pawankv89/SagePaySampleObjectiveC/blob/master/Screens/7.png)
+![](https://github.com/pawankv89/SagePaySampleObjectiveC/blob/master/Screens/8.png)
+![](https://github.com/pawankv89/SagePaySampleObjectiveC/blob/master/Screens/9.png)
+![](https://github.com/pawankv89/SagePaySampleObjectiveC/blob/master/Screens/10.png)
 
 
 ## Usage
